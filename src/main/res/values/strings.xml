@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Paytm UI Clone</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Nilesh Solanki</string>
+    <string name="nav_header_subtitle">98284939298</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_cashback">Cashback</string>
+    <string name="action_search">Search</string>
+</resources>
